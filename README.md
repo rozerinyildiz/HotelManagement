@@ -2,6 +2,7 @@
 
 Used sqlLite3 in this project.
 (#ENGLISH)
+ 
  1.Müşteri Bilgisini Girin
  
  The customer enters the name, age, entry-exit date and the room number is assigned automatically.
